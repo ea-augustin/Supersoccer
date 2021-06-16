@@ -25,15 +25,7 @@ class User
         $this->image = $image;
         $this->id = $id;
     }
-
-    public function isAdmin()
-    {
-        if ($this->role == "administrator") {
-            return true;
-        } else {
-            return false;
-        }
-    }
+    
 
     /**
      * @return mixed|null
