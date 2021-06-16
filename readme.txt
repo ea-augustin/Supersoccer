@@ -1,6 +1,6 @@
 3) Je suis une méthode magique appelé implicitement à la fin d’un script PHP. Qui suis-je ? (1
 point)
-__contruct(), __destruct()
+__destruct()
 
 5) Donnez 3 types de visibilité sur un attribut expliquez la différence. (1.5 points)
      provate, public, protected
